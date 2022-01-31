@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="printer_speed">
+        <item>Default - 1</item>
+        <item>Slow - 5</item>
+        <item>Slower - 10</item>
+        <item>Slowest - 20</item>
+    </string-array>
+</resources>
