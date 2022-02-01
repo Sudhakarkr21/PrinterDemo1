@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
     Bitmap mergerBitMap = null;
     ImageView image;
     int test = 0;
+    int test1 =0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
