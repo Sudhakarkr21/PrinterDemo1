@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
     CieBluetoothPrinter cieBluetoothPrinter = new CieBluetoothPrinter();
     Bitmap mergerBitMap = null;
     ImageView image;
+    int test;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
